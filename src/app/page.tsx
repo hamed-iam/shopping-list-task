@@ -92,13 +92,9 @@ export default function Home() {
               seamless user experience in <b>both pages</b>. You will need to
               <b> design your own API structure</b>, and while creating a
               separate API service is a bonus, storing data within the project
-              is also acceptable. A <b>fully responsive design</b> is required
-              to ensure the app works smoothly on desktop, tablet, and mobile
-              devices.
-              <b> TypeScript is mandatory</b>, and you are free to use any
-              frontend framework of your choice (Nuxt, Next, React, Vue, etc.)
-              or even vanilla along with your preferred UI library. Your project
-              should be
+              is also acceptable. You are free to use any frontend framework of
+              your choice (Nuxt, Next, React, Vue, etc.) or even vanilla along
+              with your preferred UI library. Your project should be
               <b> well-structured and well-documented</b>, include a clear
               <b> README</b>, and be hosted on a <b>public GitHub repository</b>
               . Additionally, the application must be <b>Dockerized</b>, with
@@ -143,6 +139,8 @@ export default function Home() {
                 functionality (highly appreciated)
               </li>
               <li>Custom API for shopping list with pagination and search</li>
+              <li>Fully responsive design</li>
+              <li>TypeScript</li>
               <li>Deployment to a cloud provider</li>
             </ul>
           </CardContent>
