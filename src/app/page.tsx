@@ -46,16 +46,25 @@ export default function Home() {
               <br />
               <br />
               Below, you&apos;ll find the details of your task, which must be
-              completed within <b>four days</b> from the time you receive it.
+              completed within <b>three days</b> from the time you receive it.
               While there are multiple ways to structure and build this
-              application, what truly matters is your <b>approach</b> to create
-              this application.
+              application, what truly matters is your <b>approach</b> to develop
+              it. <b>Design (CSS)</b> is not important; focus on the structure
+              and functionality instead.
               <br />
               <br />
               The task description is <b>clear and well-defined</b>, accompanied
               by a <b>wireframe</b> to help you better understand the
               requirements. However, if you have any questions along the way,
-              feel free to reach out.
+              feel free to{" "}
+              <a
+                target="_blank"
+                className="underline text-[#FD5C0A]"
+                href="https://www.linkedin.com/in/fatemeh-talebi-6306791a3/"
+              >
+                reach out
+              </a>
+              .
               <br />
               <br />
               Most importantly, <b>have fun coding! 🚀</b>
@@ -143,7 +152,7 @@ export default function Home() {
           <CardContent className="p-4 sm:p-6">
             <h2 className="font-bold text-xl mb-8">🚀 Submission Guidelines</h2>
             <p className="text-gray-700 mt-2 text-sm sm:text-base text-justify ">
-              You have four days from the time you receive it to complete the
+              You have three days from the time you receive it to complete the
               task. Once finished, please host the project in a public GitHub
               repository and include a README.md with clear setup instructions.
               Submit the task by emailing the link to your repository to your TA
